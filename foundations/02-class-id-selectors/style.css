@@ -1,0 +1,24 @@
+
+body {
+    background-color: gray;
+}
+
+p {
+    background-color: #f47780;
+    color: black;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.threeNumber {
+    font-size: 24px;
+}
+
+#two_id {
+    color: blue;
+    font-size: 38px;
+}
+
+#for_id {
+    background-color: green;
+    font-size: 24px;
+}
